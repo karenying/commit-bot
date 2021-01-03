@@ -1,7 +1,7 @@
 import os
 from random import randint
 
-MAX_COMMITS = 5
+MAX_COMMITS = 3
 THRESHOLD = 3
 
 def commit():
