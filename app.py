@@ -10,8 +10,6 @@ def commit():
   os.system("git commit -m Update output.txt")
   os.system("git push")
 
-""" if (randint(0, 10) > THRESHOLD):
+if (randint(0, 10) > THRESHOLD):
   for i in range(randint(0, MAX_COMMITS)):
-    commit() """
-
-commit()
+    commit()
